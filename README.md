@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=1C83E1&center=true&vCenter=true&width=600&lines=🛡️+RISK+MANAGER;Gestão+de+Riscos+·+MAGERIT" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=1C83E1&center=true&vCenter=true&width=600&lines=RISK+MANAGER;Gestao+de+Riscos+-+MAGERIT" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -37,19 +35,19 @@ O **Risk Manager** foi construído para tornar esse processo visual e acessível
 
 ## 💻 Demonstração Visual
 
-**Painel lateral — cadastro de ativo com preview do risco em tempo real:**
+**Painel lateral - cadastro de ativo com preview do risco em tempo real:**
 
 <p align="center">
   <img src="./assets/sidebar.png" width="35%" alt="Sidebar de cadastro de ativo">
 </p>
 
-**Dashboard principal — métricas, matriz de risco e gráfico de estratégias:**
+**Dashboard principal - métricas, matriz de risco e gráfico de estratégias:**
 
 <p align="center">
   <img src="./assets/dashboard.png" width="90%" alt="Dashboard principal do Risk Manager">
 </p>
 
-**Registro de Ativos (MAGERIT) — tabela completa com nível e estratégia por ativo:**
+**Registro de Ativos (MAGERIT) - tabela completa com nível e estratégia por ativo:**
 
 <p align="center">
   <img src="./assets/tabela.png" width="90%" alt="Tabela de registro de ativos">
@@ -61,7 +59,7 @@ O **Risk Manager** foi construído para tornar esse processo visual e acessível
   <img src="./assets/visao_geral.png" width="90%" alt="Visão geral do dashboard com sidebar">
 </p>
 
-**Exportação do relatório em CSV — dados prontos para auditoria:**
+**Exportação do relatório em CSV - dados prontos para auditoria:**
 
 <p align="center">
   <img src="./assets/csv.png" width="75%" alt="Relatório exportado em CSV">
